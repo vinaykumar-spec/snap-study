@@ -1,3 +1,18 @@
 .streamlit/secrets.toml
 snapstudy.db
 __pycache__/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Streamlit secrets
+.streamlit/secrets.toml
